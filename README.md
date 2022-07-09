@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ms801525
 - 👀 I’m interested in Web development, I love to code although I have a bad habit of not being consistent with coding on a regular basis
 - 🌱 I’m currently enrolled in iXperience, which is an online bootcamp, I figured why not enhance my grey area and help make it easier on myself to land a job?
-- 💞️ I graduated from Dalhousie with a degree in Applied Computer Science, It is a big accomplishment and I look forwarf to what is next in my career
+- 💞️ I graduated from Dalhousie with a degree in Applied Computer Science, It is a big accomplishment and I look forward to what is next in my career
 - 📫 How to reach me: Email: Ms801525@dal.ca
 
 <!---
