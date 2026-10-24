@@ -25,7 +25,7 @@ Outside work, I build and test small web and data tools.
 **Testing:** test planning, regression and UAT, boundary value testing, Playwright, Jira
 **Technical:** Python, JavaScript, SQL, REST APIs, Git, GitHub Actions, AWS
 
-**Certifications:** AWS Certified Solutions Architect – Associate · ISTQB Certified Tester (Agile, AI Testing)
+**Certifications:** AWS Certified Solutions Architect – Associate · ISTQB Certified Tester (Foundation Level, Agile Tester, AI Testing)
 
 ### Contact
 
