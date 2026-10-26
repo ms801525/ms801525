@@ -8,7 +8,7 @@ Outside work, I build and test small web and data tools.
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [Productive](https://github.com/ms801525/Productive) | A weekly planner that runs fully in the browser, with a strict security policy and a 31-check automated attack suite. Live at [productiveplanner.online](https://productiveplanner.online) | JavaScript, Playwright, GitHub Pages |
+| [Productive](https://github.com/ms801525/Productive) | A weekly planner that runs fully in the browser, with a strict security policy and a 35-test automated security suite. Live at [productiveplanner.online](https://productiveplanner.online) | JavaScript, Playwright, GitHub Pages |
 | Lab Results Interface *(in progress)* | Converts HL7 v2 lab results to FHIR and checks every result against its reference range | Python, SQLite, FHIR R4 |
 
 **Earlier projects**
